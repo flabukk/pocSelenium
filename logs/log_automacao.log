@@ -1,0 +1,13 @@
+2017-12-06 02:52:35[THREAD ID=main]  INFO  WebDriverFactory:90 - Iniciado Browser Internet Explorer
+2017-12-06 02:52:42[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaHome:36 - Abre o site: http://demo.cs-cart.com
+2017-12-06 02:52:44[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaHome:68 - Campo pesquisa preenchido com o valor: Batman
+2017-12-06 02:52:50[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaHome:79 - Clicado na Lupa de Pesquisa
+2017-12-06 02:52:55[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaHome:90 - Selecionado o produto: Batman
+2017-12-06 02:52:56[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaDescricaoProduto:52 - Nome do Produto recuperado: Batman: Arkham City (X360)
+2017-12-06 02:52:57[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaDescricaoProduto:41 - Clicado no botão [Adicionar ao Carrinho]
+2017-12-06 02:52:59[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaDescricaoProduto:64 - Clicado no botão [Continuar compras]
+2017-12-06 02:53:00[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaHome:68 - Campo pesquisa preenchido com o valor: PS3
+2017-12-06 02:53:05[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaHome:79 - Clicado na Lupa de Pesquisa
+2017-12-06 02:53:10[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaHome:90 - Selecionado o produto: PS3
+2017-12-06 02:53:10[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaDescricaoProduto:52 - Nome do Produto recuperado: F.E.A.R. 3 (PS3) MX
+2017-12-06 02:53:11[THREAD ID=CT_001_VerificarCarrinho]  INFO  TelaDescricaoProduto:41 - Clicado no botão [Adicionar ao Carrinho]
