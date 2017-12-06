@@ -38,10 +38,10 @@ public class TelaDescricaoProduto extends Command {
 	private void clicarBotaoAdicionarAoCarrinho(){
 		btnAdicionarCarrinho = webDriver.findElement(By.xpath(".//button[@class='ty-btn__primary ty-btn__big ty-btn__add-to-cart cm-form-dialog-closer ty-btn']"));
 		this.click(btnAdicionarCarrinho);
-		logger.info("Clicado no bot„o [Adicionar ao Carrinho]");
+		logger.info("Clicado no bot√£o [Adicionar ao Carrinho]");
 		report.addStep("");
-		report.addText("Clicado no bot„o [Adicionar ao Carrinho]");
-		clicarBotaoContinuarCompras();
+		report.addText("Clicado no bot√£o [Adicionar ao Carrinho]");
+		//clicarBotaoContinuarCompras();
 	}
 	
 	/**recuperarNomeProduto
@@ -61,7 +61,7 @@ public class TelaDescricaoProduto extends Command {
 		if(exist){
 			btnContinuarCompras = webDriver.findElement(By.xpath(".//*[@class='ty-btn ty-btn__secondary cm-notification-close ']"));
 			this.click(btnContinuarCompras);
-			logger.info("Clicado no bot„o [Continuar compras]");
+			logger.info("Clicado no bot√£o [Continuar compras]");
 		}		
 	}
 	
